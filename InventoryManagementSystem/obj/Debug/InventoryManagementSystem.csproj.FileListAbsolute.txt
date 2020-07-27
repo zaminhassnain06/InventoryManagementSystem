@@ -1,0 +1,178 @@
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\itextsharp.dll
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\itextsharp.xml
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Categories.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HomeScreen.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDI.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POdetails.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceivingDetails.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceiving.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReport.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ReceivingReport.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReport.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Product.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.PurchaseOrder.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sales.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesDetails.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample2.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.settings.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOnHold.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockRejected.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockReworked.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockIn.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOut.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.stocks.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Customer.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Supplier.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Users.resources
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Categories.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HomeScreen.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDI.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POdetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceivingDetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceiving.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ReceivingReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Product.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.PurchaseOrder.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sales.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesDetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample2.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.settings.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOnHold.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockRejected.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockReworked.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockIn.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOut.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.stocks.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Customer.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Supplier.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Users.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\itextsharp.dll
+D:\Docs\PMS\ims stuff\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\itextsharp.xml
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.dll
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.xml
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Categories.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HomeScreen.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDI.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POdetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceivingDetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceiving.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ReceivingReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReport.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Product.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.PurchaseOrder.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sales.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesDetails.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample2.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.settings.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOnHold.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockRejected.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockReworked.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockIn.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOut.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.stocks.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Customer.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Supplier.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Users.resources
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\Docs\PMS\ims stuff\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.dll
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.xml
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Categories.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HomeScreen.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDI.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POdetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceivingDetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceiving.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ReceivingReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Product.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.PurchaseOrder.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sales.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesDetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample2.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.settings.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOnHold.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockRejected.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockReworked.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockIn.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOut.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.stocks.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Customer.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Supplier.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Users.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu Menu\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.dll
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\bin\Debug\itextsharp.xml
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Categories.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HomeScreen.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDI.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POdetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceivingDetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReceiving.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ReceivingReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.POReport.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Product.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.PurchaseOrder.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sales.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesDetails.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Sample2.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.settings.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOnHold.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockRejected.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockReworked.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockIn.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.StockOut.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.stocks.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Customer.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Supplier.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Users.resources
+D:\Docs\PMS\ims stuff\IMSwithOut Bunifu indivudual page\InventoryManagementSystem Before barcode\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
